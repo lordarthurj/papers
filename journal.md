@@ -1,5 +1,5 @@
 # Author 
-Arturo Jimenez
+Arturo Arriaga
 
 # Title
 Measurmenets of biomass burning emissions over
