@@ -2,7 +2,7 @@
 Arturo Jimenez
 
 # Title
-Measurmenets of biomass burning emissions over
+Aircraft measurmenets of biomass burning emissions over
 West Africa
 
 # Introduction
