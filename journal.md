@@ -6,6 +6,9 @@ John Smith
 Measurements-model comparison of biomass burning emissions over emissions over
 West Africa
 
+#Abstract
+Always write this last, because it is most dificult to write
+
 # Introduction
 Joe Arturo 2004, in course this morning, please not interrupt,
 he will be busy all day
