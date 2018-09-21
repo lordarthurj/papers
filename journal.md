@@ -1,8 +1,9 @@
 # Author 
 Arturo Jimenez
+John Smith
 
 # Title
-Measurmenets of biomass burning emissions over
+Biomass burning emissions over
 West Africa
 
 # Introduction
