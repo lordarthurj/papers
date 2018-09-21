@@ -1,7 +1,6 @@
 # Author 
-John Smith
-Arturo Jimenez
-
+John Smith, University of Elsewhere
+Arturo Jimenez, University of Manchester
 
 # Title
 Measurements-model comparison of biomass burning emissions over emissions over
