@@ -25,3 +25,6 @@ coagulation rather than condensation.
 
 # Conclutions
 We found some stuff, but give us more money to find out more stuff.
+
+# Figures
+this is where the figures go in a draft.
